@@ -4,4 +4,4 @@ This mod simply makes so that when all players are dead, any active invasions wi
 
 This mod is not testing with mods that add invasions, however, it is more than likely that they are compatible.
 
-Report issues and/or suggestions on the [url=https://github.com/RemurinTheReal/Terraria-Extra-World-Sizes/issues] GitHub issues tracker [/url]
+Report issues and/or suggestions on the [url=https://github.com/RemurinTheReal/Terraria-Limited-Event-Lives/issues] GitHub issues tracker [/url]
